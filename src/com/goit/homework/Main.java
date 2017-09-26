@@ -8,7 +8,7 @@ public class Main {
 //        FirstTask firstTask = new FirstTask();
 //        firstTask.task1Star();
 
-//        //task 2
+//        //task 2(threads - threadpool)
 //        SecondTask secondTask = new SecondTask();
 //        secondTask.secondTaskStart();
 
@@ -16,9 +16,9 @@ public class Main {
 //        ThirdTask thirdTask = new ThirdTask();
 //        thirdTask.getReady();
 
-        //TextRedactor
-        TextRedactor textRedactor = new TextRedactor();
-        textRedactor.getReady();
+//        //TextRedactor(25 pictures)
+//        TextRedactor textRedactor = new TextRedactor();
+//        textRedactor.getReady();
     }
 }
 
